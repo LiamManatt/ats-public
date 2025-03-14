@@ -1,0 +1,14 @@
+{
+  "resourceName": "ats",
+  "policyUUID": "5076fbcc",
+  "bucketName": "atswildfireappef2b1923c3ba487db36dac6c21da6c4a",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-atswildfireapp-dev-3555a-authRole",
+      "UnauthRoleArn": "arn:aws:iam::545009859617:role/amplify-atswildfireapp-dev-3555a-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::545009859617:role/amplify-atswildfireapp-dev-3555a-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-atswildfireapp-dev-3555a-deployment",
+      "UnauthRoleName": "amplify-atswildfireapp-dev-3555a-unauthRole",
+      "StackName": "amplify-atswildfireapp-dev-3555a",
+      "StackId": "arn:aws:cloudformation:us-west-1:545009859617:stack/amplify-atswildfireapp-dev-3555a/32f027d0-ff9e-11ef-87ee-06d6d6021195",
+      "AmplifyAppId": "d2xjs47sf5adfv"
+    },
+    "categories": {
+      "auth": {
+        "atswildfireapp3acf4c1d": {}
+      },
+      "storage": {
+        "ats": {}
+      }
+    }
+  }
+}
